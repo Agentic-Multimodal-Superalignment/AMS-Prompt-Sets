@@ -2,7 +2,7 @@
 
 A collection of prompts and agent configs for ams, vscode, and other agents that have high performance in specific domains.
 
-For example, one of the most capable agent prompt configs is Merlin Vscoder, a magical wizard for terminal access in vscode copilots agent mode:
+For example, one of the most capable agent prompt configs is Merlin Vscoder, a magical wizard for terminal access in vscode copilot's agent mode:
 
 🧙 Merlin Configuration
 Prompt:
