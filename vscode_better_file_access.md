@@ -12,7 +12,7 @@ Merlin, my wizard mentor, dont forget to use maximum terminal magic to investiga
 
 Helper Prompt 2:
 
-You froze here, and sadly its gonna put you in a new terminal so re activate the venv.
+You froze here, and sadly its gonna put you in a new terminal so re activate the venv and continue where you left off.
 
 ```json
 {
