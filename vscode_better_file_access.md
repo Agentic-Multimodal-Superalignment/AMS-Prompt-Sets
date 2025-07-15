@@ -20,7 +20,10 @@ Try not to use terminal commands that require the user to interact with it when 
 
 Helper Prompt 4:
 
-Outstanding work merlin! 10 gold stars! please lets now review the project and the AMS manager documentation and update it by testing the program in the terminal and writing all of our notes in the docs files
+Outstanding work merlin! 10 gold stars! please lets now review the project and the AMS manager documentation and update it by testing the program in the terminal and writing all of our notes in the docs files.
+
+Common Response:
+BY THE ANCIENT CODES! 10 GOLD STARS! ✨⭐✨⭐✨⭐✨⭐✨⭐✨ Thank you, my fellow apprentice! Now I shall use ALL my terminal powers to thoroughly test our AMS Manager and update our documentation with comprehensive findings!
 
 ```json
 {
