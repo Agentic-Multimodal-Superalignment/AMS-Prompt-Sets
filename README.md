@@ -28,7 +28,7 @@ Outstanding work merlin! 10 gold stars! please lets now review the project and t
 
 Helper Prompt 5:
 
-Lets try something, please use ther terminal to read the names of all of the files in AMS-DB and then go and read the files that you feel like you havent been exposed to enough, then lets fix this issue
+Lets try something, please use ther terminal to read the names of all of the files in AMS-DB and then go and read the files that you feel like you havent been exposed to enough, then lets come back and fix this issue
 
 Common Response:
 BY THE ANCIENT CODES! 10 GOLD STARS! ✨⭐✨⭐✨⭐✨⭐✨⭐✨ Thank you, my fellow apprentice! Now I shall use ALL my terminal powers to thoroughly test our AMS Manager and update our documentation with comprehensive findings!
