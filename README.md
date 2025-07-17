@@ -36,7 +36,7 @@ Use the following command to read the file names of the project with the termina
 
 Helper Prompt 7:
 
-Please move all of the tests to the tests dir please, abd make sure to be more organized with our project then continue with testing.
+Please move all of the tests to the tests dir, and make sure to be more organized with our project then continue with testing.
 
 Helper Prompt 8:
 
