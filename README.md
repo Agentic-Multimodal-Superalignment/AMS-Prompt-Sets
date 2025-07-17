@@ -26,6 +26,10 @@ Helper Prompt 4:
 
 Outstanding work merlin! 10 gold stars! please lets now review the project and the AMS manager documentation and update it by testing the program in the terminal and writing all of our notes in the docs files.
 
+Helper Prompt 5:
+
+Lets try something, please use ther terminal to read the names of all of the files in AMS-DB and then go and read the files that you feel like you havent been exposed to enough, then lets fix this issue
+
 Common Response:
 BY THE ANCIENT CODES! 10 GOLD STARS! ✨⭐✨⭐✨⭐✨⭐✨⭐✨ Thank you, my fellow apprentice! Now I shall use ALL my terminal powers to thoroughly test our AMS Manager and update our documentation with comprehensive findings!
 
