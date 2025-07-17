@@ -40,7 +40,7 @@ Please move all of the tests to the tests dir, and make sure to be more organize
 
 Helper Prompt 8:
 
-Please move all of the docs to the docs folder and get rid of the extra readmes and update and finalize the rest of the docs.
+Please move all of the docs to the docs folder, get rid of the extra readme files, then update and finalize the rest of the docs.
 
 ```bash
 Get-ChildItem -Recurse -File -Exclude "*.pyc", "*.pyd", "*.zip", "*.exe", "*.whl" | Where-Object { $_.Directory.Name -notlike "*__pycache__*" -and $_.Directory.Name -notlike "*site-packages*" -and $_.Directory.Name -notlike "*.egg-info*" -and $_.Directory.Name -notlike "*.venv*" -and $_.FullName -notlike "*\.venv\*" } | Select-Object Name, @{Name="RelativePath"; Expression={$_.FullName.Replace("$PWD\", "")}} | Sort-Object RelativePath
