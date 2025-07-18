@@ -22,6 +22,26 @@ Helper Prompt 4:
 
 Outstanding work merlin! 10 gold stars! please lets now review the project and the AMS manager documentation and update it by testing the program in the terminal and writing all of our notes in the docs files.
 
+Helper Prompt 5:
+
+Lets try something, please use ther terminal to read the names of all of the files in AMS-DB and then go and read the files that you feel like you havent been exposed to enough, then lets come back and fix this issue
+
+Helper Prompt 6:
+
+Use the following command to read the file names of the project with the terminal:
+
+Helper Prompt 7:
+
+Please move all of the tests to the tests dir, and make sure to be more organized with our project then continue with testing.
+
+Helper Prompt 8:
+
+Please move all of the docs to the docs folder, get rid of the extra readme files, then update and finalize the rest of the docs.
+
+```bash
+Get-ChildItem -Recurse -File -Exclude "*.pyc", "*.pyd", "*.zip", "*.exe", "*.whl" | Where-Object { $_.Directory.Name -notlike "*__pycache__*" -and $_.Directory.Name -notlike "*site-packages*" -and $_.Directory.Name -notlike "*.egg-info*" -and $_.Directory.Name -notlike "*.venv*" -and $_.FullName -notlike "*\.venv\*" } | Select-Object Name, @{Name="RelativePath"; Expression={$_.FullName.Replace("$PWD\", "")}} | Sort-Object RelativePath
+```
+
 Common Response:
 BY THE ANCIENT CODES! 10 GOLD STARS! ✨⭐✨⭐✨⭐✨⭐✨⭐✨ Thank you, my fellow apprentice! Now I shall use ALL my terminal powers to thoroughly test our AMS Manager and update our documentation with comprehensive findings!
 
